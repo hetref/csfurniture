@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/csfurniture/static/css/main.0d34847a.css",
-    "main.js": "/csfurniture/static/js/main.0f01e6ea.js",
+    "main.js": "/csfurniture/static/js/main.83061eb8.js",
     "static/media/product_windows.png": "/csfurniture/static/media/product_windows.01bd595773ded8095519.png",
     "static/media/product_bed.png": "/csfurniture/static/media/product_bed.88028069dd5b5b6a1a46.png",
     "static/media/porduct_staircaseholder.png": "/csfurniture/static/media/porduct_staircaseholder.c06cb53df80b26b2e916.png",
@@ -30,10 +30,10 @@
     "static/media/p_bed3.jpg": "/csfurniture/static/media/p_bed3.c32c734c62910f595c8c.jpg",
     "index.html": "/csfurniture/index.html",
     "main.0d34847a.css.map": "/csfurniture/static/css/main.0d34847a.css.map",
-    "main.0f01e6ea.js.map": "/csfurniture/static/js/main.0f01e6ea.js.map"
+    "main.83061eb8.js.map": "/csfurniture/static/js/main.83061eb8.js.map"
   },
   "entrypoints": [
     "static/css/main.0d34847a.css",
-    "static/js/main.0f01e6ea.js"
+    "static/js/main.83061eb8.js"
   ]
 }
